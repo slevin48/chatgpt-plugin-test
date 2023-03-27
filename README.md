@@ -6,3 +6,4 @@ Test a ChatGPT plugin with a Streamlit App
 Resources:
 - https://github.com/slevin48/openai
 - https://github.com/slevin48/chatgpt-retrieval-plugin
+- https://github.com/pinecone-io/examples/blob/master/generation/chatgpt/plugins/langchain-docs-plugin.ipynb
